@@ -1,4 +1,5 @@
 # Go-Java-App
+https://github.com/chiju/algo/tree/main/alice_blue
 
 Used istio service mesh, configured to laodbalance traffic as per 70:30 rule, enabled addons like prometheus, grafana for monitoring and observability.
 Added readiness and liveness probes, redirected homepage to ```/hotels``` page, added horozontal pod autscaler for autoscalling
